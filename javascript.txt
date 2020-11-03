@@ -1,0 +1,5 @@
+a.splice(xiabiao,1)		删除数组某个值的第一个
+a.length			数组个数
+var i1=myArr.findIndex((value)=>value==12);// 写值取下标
+var v1=myArr.find(value=>value>2);	  //写下标取值
+var x = document.querySelectorAll(".example");获取文档中 class="example" 的所有元素:

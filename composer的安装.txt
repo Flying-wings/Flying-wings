@@ -1,0 +1,11 @@
+下载window环境
+composer.bat 打开改：
+			@php "%~dp0composer.phar" %*或
+			@php "%~dp0composer.phar" %*>composer.bat
+再把
+composer.bat和composer.phar
+移到对应的php版本下
+
+是否安装 cmd打开黑白屏输入composer 
+
+https://www.cnblogs.com/llll/p/12009044.html

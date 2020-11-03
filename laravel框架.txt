@@ -1,0 +1,17 @@
+laravel.com(老)4.1~1.0
+xueyuanjun.com(新)5.1~8.0 2167532887a
+
+1.设置环境
+控制面板\系统和安全\系统
+高级系统设置
+环境变量
+path
+复制phpstady 版本号
+
+生成控制器 php artisan make:controller Test/UserController
+
+生成视图
+
+生成model（ORM）
+
+生成中间件 php artisan make:middleware 中间件名

@@ -1,0 +1,90 @@
+			git
+
+status 		开始，初始
+commit 		git中的提交
+on     		在。。。里面
+manster		操作，修改
+branch		分支
+remove 		移除
+sign up 	注册
+sign in 	登录
+git pull	将本地修改储存起来，然后再Git pull 就可以了呢。拉
+git stash 	将本地修改储存起来，然后再Git stash就可以了呢。拉
+
+
+			php
+if(！preg_match('/\w{6,},$pass)){}判断密码6位以上字符	
+“target=_blank 意味着 您点这个 超链接的时候 将会是在新的窗口中打开一个页面。 相似的有: target = _self 在原窗口打开一个页面。
+			
+			php	think PHP
+namespace	命名空间
+app
+think
+controller	控制器
+view		
+model		模型
+captcha		tp5验证码文件
+Db::table('xiaomi');含前缀
+Db::table('xiaomi');不含前缀
+assign		
+fatch
+if (!captcha_check($yan)){
+	return "验证码错误";			判断验证码
+}
+						  }
+
+
+
+
+
+			Ajax
+var
+alert
+$.ajax
+url
+data
+dateType
+success
+eror
+			laui
+
+
+			其他
+extends		继承
+img		
+input
+login
+div
+a
+id
+name
+class
+type
+script
+document
+ready
+function
+return
+ifelse
+window.location.href="";
+window
+locateion
+href
+date
+post
+get		
+clone		克隆
+kind 		种类
+register	注册
+login		登录
+
+
+
+
+
+
+
+
+
+
+

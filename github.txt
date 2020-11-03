@@ -1,0 +1,30 @@
+git init		初始化 
+git add .
+git commit -a -m
+git status
+git pull		（线上最新）将本地修改储存起来，然后再Git pull 就可以了呢。拉GitHub仓库全部文件
+git stash 		（线上最新）将本地修改储存起来，然后再Git stash就可以了呢。拉GitHub仓库全部文件
+master			线上生产环境（pro）
+sat			准生产环境（sat）
+git push  		推送代码（只推送当前分支代码）
+git push -u 远程仓库名称 login:logins	别名
+git branch		查看（本地当前）处在分支和（有多少分支）
+git branch 分支名称	创建分支（复制clone当前master）
+git checkout 分支名称	切换分支
+git checkout -b 分支名称 创建分支并切换分
+git branch -d 分支名称	删除分支
+git branch -D 分支名称	强制删除				
+git merge 分支名称	合并分支
+git remote show origin	查看线上有多少分支
+*master			当前处在的分支
+
+
+
+分支
+1.（要哪个分支合并到那个分支）
+在master分支中输入git merge login （login分支就合并到master了）
+在master分支中输入git branch -d login
+2.（删除分支不能再要被删除的分支中删）
+3.（两个分支同时修改同一个文件 （记得切换修改）（手动修改））
+在
+4.本地不存在的分支，切换一个线上存在的分支（等于下载）

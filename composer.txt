@@ -1,0 +1,19 @@
+composer 镜像
+一、配置文件
+在我们开始一个项目的时候，首先会给项目取一个名字，我们暂且叫丝绸之路吧，代号silk。首先要写一个Composer的配置文件，来描述项目，为此，在项目的根目录下，建立文件名为composer.json的配置文件。内容如下：
+
+{
+    "name":             "meta/silk",
+    "description":      "another e-commerce website",
+    "keywords":         ["silk", "online shop", "good"],
+    "homepage":         "http://www.xxx.com ",
+    "time":             "2014-12-30",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "Elvis Lim",
+        "email":        "elvis@xxx.com",
+        "homepage":     "http://www.xxx.com",
+        "role":         "Engineer"
+    }]
+}
+1
